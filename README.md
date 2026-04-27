@@ -4,6 +4,18 @@ A lightweight SwiftUI calendar component for iOS. Drop it in, pass a binding for
 
 ---
 
+## Preview
+
+<p align="center">
+  <img src="Screenshots/month-view.png" width="30%" alt="Month view" />
+  &nbsp;&nbsp;
+  <img src="Screenshots/week-view.png" width="30%" alt="Week view" />
+  &nbsp;&nbsp;
+  <img src="Screenshots/settings.png" width="30%" alt="Settings" />
+</p>
+
+---
+
 ## Features
 
 - **Month view** — full grid with Monday-first layout, today highlight, selected-day ring, and optional event-indicator dots
